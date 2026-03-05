@@ -30,12 +30,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Saif's GitHub stats](https://github-readme-stats.vercel.app/api?username=saifquresh1&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
----
-
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saifquresh1)
